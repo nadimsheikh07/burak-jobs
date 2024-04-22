@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "axios": "^1.6.8",
-    "facebook-js-sdk": "^0.3.4",
     "next": "14.2.0",
     "react": "^18",
     "react-dom": "^18",
